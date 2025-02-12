@@ -1,10 +1,10 @@
 # Quick Start
 
-Welcome to the Quick Start Guide for Enjicalc, your collaborative software solution for writing, reviewing, and managing engineering calculations. We know you're eager to get started with the software, so this guide will walk you through the essential steps to get you up and running quickly.
+Welcome to the Quick Start Guide for Enji.io, your collaborative software solution for writing, reviewing, and managing engineering calculations. We know you're eager to get started with the software, so this guide will walk you through the essential steps to get you up and running quickly.
 
 ## Key App Components
 
-Enjicalc comprises two general interfaces: a personal dashboard and a workspace. On your dashboard page, click Create New Workspace. Feel free to rename the workspace before jumping into it. Inside your workspace, click Create Sheet to start your first set of calculations.
+Enji.io comprises two general interfaces: a personal dashboard and a workspace. On your dashboard page, click Create New Workspace. Feel free to rename the workspace before jumping into it. Inside your workspace, click Create Sheet to start your first set of calculations.
 
 ### Sheet Page
 
@@ -13,7 +13,7 @@ A Sheet Page represents a blueprint for your engineering calculations. It includ
 * Symbols
 * Headings
 
-The Symbol represents the fundamental part of calculations inside Enjicalc. You can compare it to a Cell in Microsoft Excel. While Excel only stores a formula inside a cell, Enjicalc uses a more sophisticated approach to work with engineering formulae. In Enjicalc's database, Symbol holds a formula itself, as well as crucial information related to it, including:
+The Symbol represents the fundamental part of calculations inside Enji.io. You can compare it to a Cell in Microsoft Excel. While Excel only stores a formula inside a cell, Enji.io uses a more sophisticated approach to work with engineering formulae. In Enji.io's database, Symbol holds a formula itself, as well as crucial information related to it, including:
 
 * Description
 * Variable Name
@@ -34,7 +34,7 @@ Microsoft Excel:
 =(C308 - B3 * (C309/B20) * (1 + T250/TH213 * B20) ) / T250  = 0.00072
 ```
 
-Enjicalc:
+Enji.io:
 
 $$
 \begin{align*} (\varepsilon_{sm}-\varepsilon_{cm})=\frac{\sigma_{s,crack}-k_t \times \frac{f_{ctm}(t)}{\rho_{p,eff}} \times \left(1+\frac{E_{s}}{E_{cm}}\times\rho_{p,eff} \right)}{E_s}= \end{align*}
@@ -44,7 +44,7 @@ $$
 \begin{align*} =\frac{231.80-0.40 \times \frac{3.21}{0.016} \times \left(1+\frac{200000}{34007.1}\times 0.016 \right)}{200000} = 0.00072 \end{align*}
 $$
 
-Using variable names that match those in Eurocode or other standards and showing the formula with values substituted for the variables greatly reduces the time needed for review. Our Enjicalc team firmly believes that in some cases, calculations' review time can be decreased by a factor of 50!
+Using variable names that match those in Eurocode or other standards and showing the formula with values substituted for the variables greatly reduces the time needed for review. Our Enji.io team firmly believes that in some cases, calculations' review time can be decreased by a factor of 50!
 
 Now, let's write our first Symbol.
 
@@ -79,13 +79,13 @@ To paste a mathematical variable into a formula, please select an appropriate va
 
 ### Headings
 
-You can add Headings, add Symbols to a Heading and move them around as needed. At Enjicalc, we believe it is essential to group Symbols into correct sections to improve the readability of calculations.
+You can add Headings, add Symbols to a Heading and move them around as needed. At Enji.io, we believe it is essential to group Symbols into correct sections to improve the readability of calculations.
 
 <figure><img src="images/section-with-symbols.png" alt="" width="550"><figcaption></figcaption></figure>
 
-## Why you should start writing calculations with Enjicalc now
+## Why you should start writing calculations with Enji.io now
 
-The current version of Enjicalc is our Minimum Viable Product (MVP). There is still a long way to go. However, here is a list of powerful features we aim to deliver by mid-2025:
+The current version of Enji.io is our Minimum Viable Product (MVP). There is still a long way to go. However, here is a list of powerful features we aim to deliver by mid-2025:
 
 * Vectorisation
   * Imagine converting your Excel spreadsheet into a global function and reusing this function in other Excel spreadsheets.
