@@ -4,5 +4,5 @@
 
 ## Learn Enji.io
 
-* [Math Symbols](learn-enjicalc/mathml-symbols.md)
-* [Built-in Functions](learn-enjicalc/built-in-functions.md)
+* [Math Symbols](learn-enji.io/mathml-symbols.md)
+* [Built-in Functions](learn-enji.io/built-in-functions.md)

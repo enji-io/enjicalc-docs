@@ -63,13 +63,13 @@ After the above is done, you can find a Symbol Editor modal. Here is an overview
 * Description - use this to provide an overview of a symbol
 * Comment - use this to give references or notes on how to use or not to use a symbol
 * Unit - use this to state what units were considered in calculations explicitly
-* Symbol - use this to state a mathematical variable name. More guidance [here](https://enjicalc.gitbook.io/documentation/learn-enjicalc/mathml-symbols)
+* Symbol - use this to state a mathematical variable name. More guidance [here](https://docs.enji.io/intro/learn-enji.io/mathml-symbols)
 
 <figure><img src="images/symbol-editor.png" alt="" width="550"><figcaption></figcaption></figure>
 
 And now, most importantly, let's discuss Formula Editor.
 
-We aim to build an interface that makes writing a formula even more straightforward than in Microsoft Excel. With our custom Formula Editor interface, it is now possible to manipulate variables with the help of general arithmetic operations and functions. The current list of functions can be found [here](https://enjicalc.gitbook.io/documentation/learn-enjicalc/built-in-functions).
+We aim to build an interface that makes writing a formula even more straightforward than in Microsoft Excel. With our custom Formula Editor interface, it is now possible to manipulate variables with the help of general arithmetic operations and functions. The current list of functions can be found [here](https://docs.enji.io/intro/learn-enji.io/built-in-functions).
 
 To paste a mathematical variable into a formula, please select an appropriate variable from our Selector using "up" or "down" buttons and pressing "enter".
 
